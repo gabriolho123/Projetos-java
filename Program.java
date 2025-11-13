@@ -35,27 +35,7 @@ public class Program {
 		
 		System.out.println("-------- Config do pc --------" );
 		System.out.println( pc.toString());
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		
 		sc.close();
 
